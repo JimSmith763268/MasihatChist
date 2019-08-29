@@ -32,7 +32,7 @@ if (workbox) {
   },
   {
     "url": "2-khuda-kist-emtehan.html",
-    "revision": "5250a1431ca27318a0e55183b546ff76"
+    "revision": "cc1bc08d7a4de250723a53eff6a445cc"
   },
   {
     "url": "2-khuda-kist.html",
@@ -56,7 +56,7 @@ if (workbox) {
   },
   {
     "url": "5-anbja-emtehan.html",
-    "revision": "c9e95e9d6128c54de04a96c464d401bf"
+    "revision": "a3db322645902a55357ad8d5dc767fd9"
   },
   {
     "url": "5-anbja.html",
@@ -136,7 +136,7 @@ if (workbox) {
   },
   {
     "url": "masihat-chist.min.js",
-    "revision": "80cc9518d4caff86e168fd5ffb329dfa"
+    "revision": "b4ad25c15a449b14bfae17563613b198"
   },
   {
     "url": "offline.html",
