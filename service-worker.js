@@ -15,6 +15,14 @@ if (workbox) {
     "revision": "13f19393fe6ec335c8e9db51358fce7c"
   },
   {
+    "url": "10-kare-masih-emtehan.html",
+    "revision": "f815119a407298f4eb9b65c2a29b5207"
+  },
+  {
+    "url": "10-kare-masih.html",
+    "revision": "fafd70e7fffd0a04482b7bc7776daf71"
+  },
+  {
     "url": "10-ruhulqudus-kist-emtehan.html",
     "revision": "a2ee1bb7f46c2835bf8ee4d27fbad200"
   },
@@ -29,6 +37,22 @@ if (workbox) {
   {
     "url": "11-mana-taslis-chist.html",
     "revision": "ca0b1a99e53c0053d3f35f71d51b1b47"
+  },
+  {
+    "url": "11-ruhulqudus-kist-emtehan.html",
+    "revision": "26bfd71940cdf80ba6ed45e261663fae"
+  },
+  {
+    "url": "11-ruhulqudus-kist.html",
+    "revision": "55406600176d7ab8b901b135001d4527"
+  },
+  {
+    "url": "12-mana-taslis-chist-emtehan.html",
+    "revision": "53ea9ae4d85cd11d415c4bc6a78505f1"
+  },
+  {
+    "url": "12-mana-taslis-chist.html",
+    "revision": "70a9de8ac85d526f851128432a5e5914"
   },
   {
     "url": "2-khuda-kist-emtehan.html",
@@ -72,7 +96,7 @@ if (workbox) {
   },
   {
     "url": "7-tawalud-emtehan.html",
-    "revision": "f09cfde55ed425fcb39d3931dad363f7"
+    "revision": "db89583a8abcb7e982c652a735171f2c"
   },
   {
     "url": "7-tawalud.html",
@@ -85,6 +109,14 @@ if (workbox) {
   {
     "url": "8-isa-kist.html",
     "revision": "f95eabe616e34c4fb1dfda5bc1f1473a"
+  },
+  {
+    "url": "9-ensan-chi-bayad-bukunad-emtehan.html",
+    "revision": "7a679b33ae68df1bcd130f1b8a1ac8dd"
+  },
+  {
+    "url": "9-ensan-chi-bayad-bukunad.html",
+    "revision": "958e5a7f3e437b2328ec23672ba27a02"
   },
   {
     "url": "9-kare-masih-emtehan.html",
@@ -120,7 +152,7 @@ if (workbox) {
   },
   {
     "url": "index.html",
-    "revision": "a53703b08e13c238d85876796c4a2143"
+    "revision": "4a28892b51f3c39b06c02b809f0c1b8c"
   },
   {
     "url": "install.js",
@@ -136,7 +168,7 @@ if (workbox) {
   },
   {
     "url": "masihat-chist.min.js",
-    "revision": "b4ad25c15a449b14bfae17563613b198"
+    "revision": "bc9bd55080a524fdaae8b72795f89dfa"
   },
   {
     "url": "offline.html",
