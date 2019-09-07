@@ -152,11 +152,11 @@ if (workbox) {
   },
   {
     "url": "index.html",
-    "revision": "4a28892b51f3c39b06c02b809f0c1b8c"
+    "revision": "265456d7d2d18ba86730211cc0a1e083"
   },
   {
     "url": "install.js",
-    "revision": "01c1238f17934ebd509afb5439432e16"
+    "revision": "9cdf74389cce80cbb291b8b9b108cefa"
   },
   {
     "url": "manifest.json",
@@ -168,7 +168,7 @@ if (workbox) {
   },
   {
     "url": "masihat-chist.min.js",
-    "revision": "bc9bd55080a524fdaae8b72795f89dfa"
+    "revision": "7039e65712fa72eba43f7af8e9a26a83"
   },
   {
     "url": "offline.html",
