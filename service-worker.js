@@ -167,6 +167,10 @@ if (workbox) {
     "revision": "62be20f0009610a74b37f3364260f35b"
   },
   {
+    "url": "images/splash.svg",
+    "revision": "af7c60de010f04c40e4a95397b40977b"
+  },
+  {
     "url": "index.html",
     "revision": "6564f77b05a4c76916046b81c8212d29"
   },
