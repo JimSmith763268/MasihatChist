@@ -55,6 +55,14 @@ if (workbox) {
     "revision": "70a9de8ac85d526f851128432a5e5914"
   },
   {
+    "url": "13-kelisa-chist-emtehan.html",
+    "revision": "559ee74f2c59837cce7e80548a5872dd"
+  },
+  {
+    "url": "13-kelisa-chist.html",
+    "revision": "da0642ab5b429dfbc806eadeaf6269e7"
+  },
+  {
     "url": "2-khuda-kist-emtehan.html",
     "revision": "cc1bc08d7a4de250723a53eff6a445cc"
   },
@@ -127,10 +135,6 @@ if (workbox) {
     "revision": "f645ac47d092bdd95dbc6d9663b06e76"
   },
   {
-    "url": "favicon.ico",
-    "revision": "a116e69a265f93ccbc3bbdb6658a32aa"
-  },
-  {
     "url": "images/icons/icon-192x192.png",
     "revision": "6c3064bff49637767235f14175a154eb"
   },
@@ -147,20 +151,28 @@ if (workbox) {
     "revision": "62be20f0009610a74b37f3364260f35b"
   },
   {
-    "url": "images/splash.svg",
-    "revision": "af7c60de010f04c40e4a95397b40977b"
+    "url": "images/scripture-border.png/icon-192x192.png",
+    "revision": "6c3064bff49637767235f14175a154eb"
+  },
+  {
+    "url": "images/scripture-border.png/icon-256x256.png",
+    "revision": "5c7f0a6ce501f7bd6ae6e6094deec0e2"
+  },
+  {
+    "url": "images/scripture-border.png/icon-310x310.png",
+    "revision": "bec153428109cf9f80d48328bed7c123"
+  },
+  {
+    "url": "images/scripture-border.png/icon-512x512.png",
+    "revision": "62be20f0009610a74b37f3364260f35b"
   },
   {
     "url": "index.html",
-    "revision": "265456d7d2d18ba86730211cc0a1e083"
+    "revision": "6564f77b05a4c76916046b81c8212d29"
   },
   {
     "url": "install.js",
     "revision": "9cdf74389cce80cbb291b8b9b108cefa"
-  },
-  {
-    "url": "manifest.json",
-    "revision": "a34f085e0be179c7b58c3cacb8f8b916"
   },
   {
     "url": "masihat-chist.min.css",
@@ -168,7 +180,7 @@ if (workbox) {
   },
   {
     "url": "masihat-chist.min.js",
-    "revision": "7039e65712fa72eba43f7af8e9a26a83"
+    "revision": "586fdbb7fc65087b0f5dfd03ebef29f6"
   },
   {
     "url": "offline.html",
