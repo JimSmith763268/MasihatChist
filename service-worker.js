@@ -63,6 +63,22 @@ if (workbox) {
     "revision": "da0642ab5b429dfbc806eadeaf6269e7"
   },
   {
+    "url": "14-takalif-marasem-emtehan.html",
+    "revision": "3e680920d592df29e0981bcd60ca35d6"
+  },
+  {
+    "url": "14-takalif-marasem.html",
+    "revision": "5dec60302aa8c22abd929df66ae49f5e"
+  },
+  {
+    "url": "15-talim-akhlaqi-emtehan.html",
+    "revision": "a7fa2d5980e42df7466f3bec60be8055"
+  },
+  {
+    "url": "15-talim-akhlaqi.html",
+    "revision": "e5e3f41ab6719b3666485b49feb7eee6"
+  },
+  {
     "url": "2-khuda-kist-emtehan.html",
     "revision": "cc1bc08d7a4de250723a53eff6a445cc"
   },
@@ -172,7 +188,7 @@ if (workbox) {
   },
   {
     "url": "index.html",
-    "revision": "6564f77b05a4c76916046b81c8212d29"
+    "revision": "6ab9ef96bba5976fe3ebb7e6275153e6"
   },
   {
     "url": "install.js",
@@ -184,7 +200,7 @@ if (workbox) {
   },
   {
     "url": "masihat-chist.min.js",
-    "revision": "586fdbb7fc65087b0f5dfd03ebef29f6"
+    "revision": "1e875eb5c8f813fc7230235685037742"
   },
   {
     "url": "offline.html",
