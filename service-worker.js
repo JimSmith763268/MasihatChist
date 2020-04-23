@@ -68,7 +68,7 @@ if (workbox) {
   },
   {
     "url": "14-takalif-marasem.html",
-    "revision": "5dec60302aa8c22abd929df66ae49f5e"
+    "revision": "3f7d9d36c09be16bbb21baba58cd9d18"
   },
   {
     "url": "15-talim-akhlaqi-emtehan.html",
