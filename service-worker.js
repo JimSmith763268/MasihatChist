@@ -16,7 +16,7 @@ if (workbox) {
   },
   {
     "url": "10-kare-masih-emtehan.html",
-    "revision": "f815119a407298f4eb9b65c2a29b5207"
+    "revision": "abf9e63f36e83080a27101ce0dcf88f6"
   },
   {
     "url": "10-kare-masih.html",
@@ -40,7 +40,7 @@ if (workbox) {
   },
   {
     "url": "11-ruhulqudus-kist-emtehan.html",
-    "revision": "26bfd71940cdf80ba6ed45e261663fae"
+    "revision": "fc758e4099a50e046bfbec844d4f0149"
   },
   {
     "url": "11-ruhulqudus-kist.html",
@@ -48,7 +48,7 @@ if (workbox) {
   },
   {
     "url": "12-mana-taslis-chist-emtehan.html",
-    "revision": "53ea9ae4d85cd11d415c4bc6a78505f1"
+    "revision": "ecd7a2d68df76441d6a4ad2f200f594f"
   },
   {
     "url": "12-mana-taslis-chist.html",
@@ -56,7 +56,7 @@ if (workbox) {
   },
   {
     "url": "13-kelisa-chist-emtehan.html",
-    "revision": "559ee74f2c59837cce7e80548a5872dd"
+    "revision": "04ecf8507107be334f20718f60bc33f8"
   },
   {
     "url": "13-kelisa-chist.html",
@@ -64,7 +64,7 @@ if (workbox) {
   },
   {
     "url": "14-takalif-marasem-emtehan.html",
-    "revision": "3e680920d592df29e0981bcd60ca35d6"
+    "revision": "8fa206d1894d85f866d30339e2f972db"
   },
   {
     "url": "14-takalif-marasem.html",
@@ -72,15 +72,27 @@ if (workbox) {
   },
   {
     "url": "15-talim-akhlaqi-emtehan.html",
-    "revision": "a7fa2d5980e42df7466f3bec60be8055"
+    "revision": "87afc9b354ccb7e509ee6908c061f90c"
   },
   {
     "url": "15-talim-akhlaqi.html",
     "revision": "e5e3f41ab6719b3666485b49feb7eee6"
   },
   {
+    "url": "16-aqide-masihian-emtehan.html",
+    "revision": "c0edb511d71c5b1f873c569fa460e4b9"
+  },
+  {
+    "url": "16-aqide-masihian.html",
+    "revision": "a442b5c9e0ba8d97402c302279f61178"
+  },
+  {
+    "url": "17-khatema.html",
+    "revision": "bfb0ec6d507b1c1fd2b87debd605b6dc"
+  },
+  {
     "url": "2-khuda-kist-emtehan.html",
-    "revision": "cc1bc08d7a4de250723a53eff6a445cc"
+    "revision": "9df50126499a38d94cc94a5b2ea16529"
   },
   {
     "url": "2-khuda-kist.html",
@@ -88,7 +100,7 @@ if (workbox) {
   },
   {
     "url": "3-ensan-kist-emtehan.html",
-    "revision": "acd24c2860b100ede94dbb03045e9169"
+    "revision": "22d5fa0177f5efb64144cd9d6da9f6a2"
   },
   {
     "url": "3-ensan-kist.html",
@@ -96,7 +108,7 @@ if (workbox) {
   },
   {
     "url": "4-gunah-chist-emtehan.html",
-    "revision": "c7c99ee168ec456c3576ac0ad2f50789"
+    "revision": "52a1948694e4d2417165d8c885576451"
   },
   {
     "url": "4-gunah-chist.html",
@@ -104,7 +116,7 @@ if (workbox) {
   },
   {
     "url": "5-anbja-emtehan.html",
-    "revision": "a3db322645902a55357ad8d5dc767fd9"
+    "revision": "7bf339cd5c999027a9a6aeaabedea620"
   },
   {
     "url": "5-anbja.html",
@@ -112,7 +124,7 @@ if (workbox) {
   },
   {
     "url": "6-ketabha-emtehan.html",
-    "revision": "c2bc0e72800f349c4a7b4b91cb5f1a3a"
+    "revision": "d5847c79eb020ca260293c13bf826caf"
   },
   {
     "url": "6-ketabha.html",
@@ -120,7 +132,7 @@ if (workbox) {
   },
   {
     "url": "7-tawalud-emtehan.html",
-    "revision": "db89583a8abcb7e982c652a735171f2c"
+    "revision": "6f0ad925da1ed150ede8cdd1902fafd0"
   },
   {
     "url": "7-tawalud.html",
@@ -128,7 +140,7 @@ if (workbox) {
   },
   {
     "url": "8-isa-kist-emtehan.html",
-    "revision": "f5d5f50d6f5d629fa7628543a005f36b"
+    "revision": "0185653663f1a61d7b644d9fe21f90ee"
   },
   {
     "url": "8-isa-kist.html",
@@ -136,7 +148,7 @@ if (workbox) {
   },
   {
     "url": "9-ensan-chi-bayad-bukunad-emtehan.html",
-    "revision": "7a679b33ae68df1bcd130f1b8a1ac8dd"
+    "revision": "e87e9b07c927880029a88e5788ce2849"
   },
   {
     "url": "9-ensan-chi-bayad-bukunad.html",
@@ -188,7 +200,7 @@ if (workbox) {
   },
   {
     "url": "index.html",
-    "revision": "6ab9ef96bba5976fe3ebb7e6275153e6"
+    "revision": "0a1136c4992bc05d121ce87496daf4f7"
   },
   {
     "url": "install.js",
@@ -200,7 +212,7 @@ if (workbox) {
   },
   {
     "url": "masihat-chist.min.js",
-    "revision": "1e875eb5c8f813fc7230235685037742"
+    "revision": "3811747b3a6f09478a8118be351a683c"
   },
   {
     "url": "offline.html",
