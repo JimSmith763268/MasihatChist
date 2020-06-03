@@ -200,7 +200,7 @@ if (workbox) {
   },
   {
     "url": "index.html",
-    "revision": "0a1136c4992bc05d121ce87496daf4f7"
+    "revision": "0abc8118e7413c350766869fa067841c"
   },
   {
     "url": "install.js",
