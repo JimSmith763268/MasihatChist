@@ -8,7 +8,7 @@ if (workbox) {
   workbox.precaching.precacheAndRoute([
   {
     "url": "0-safe-asli.html",
-    "revision": "09d927980203cd4f58670dffeb649a1d"
+    "revision": "c627d92bc3fc653467e0f85fb3f9eb00"
   },
   {
     "url": "1-muqadama.html",
@@ -208,7 +208,7 @@ if (workbox) {
   },
   {
     "url": "masihat-chist.min.css",
-    "revision": "fc593d18a59202565f3f40ce02ac1c70"
+    "revision": "d55d52d5ac7690a5d85b66fd237b0afe"
   },
   {
     "url": "masihat-chist.min.js",
